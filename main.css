@@ -497,6 +497,11 @@ img {
     background: var(--burgundy-bg);
 }
 
+.grow-badge {
+    padding: 5px 10px;
+    margin-bottom: 20px;
+}
+
 /* ========================================
    SERVICES SECTION
    ======================================== */
@@ -595,6 +600,21 @@ img {
 .service-link:hover {
     gap: 15px;
 }
+
+.horizontal-center {
+    margin-bottom: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button-center {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 
 /* ========================================
    ABOUT SECTION
