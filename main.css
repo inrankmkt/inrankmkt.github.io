@@ -495,7 +495,7 @@ img {
    ======================================== */
 .grow-section {
     padding: var(--section-padding) 0;
-    background: var(--white);
+    background: var(--lavender-bg);
 }
 
 /* ========================================
